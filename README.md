@@ -21,6 +21,12 @@ Airline satisfaction scores for 129,880 passengers. Each record represents one p
 ---Task : Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation. Write what you think some root causes of their slow progress might be
 ---Visualization : .pbix
 
+**_Maven Analytics - QueenGambitChallenge: Dashboard_**
+---About the dataset (chess_games.csv)
+Data for 20,000+ chess games played on Lichess, including moves, victor, rating, opening details and more.
+---Visualization: queen gambit.pbix
+
 **_Forage : Dashboard_**
 ---Dataset : SocialBuzz.xlsx
 ---Visualization : SocialBuzz.pbix
+
