@@ -19,7 +19,7 @@ Airline satisfaction scores for 129,880 passengers. Each record represents one p
 **_Forage - PwC: Report_**
 ---Dataset : 03 Diversity-Inclusion-Datset.xlsx
 ---Task : Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation. Write what you think some root causes of their slow progress might be
----Visualization : .pbix
+---Visualization : DiversityInclusion.pbix
 
 **_Maven Analytics - QueenGambitChallenge: Dashboard_**
 ---About the dataset (chess_games.csv)
