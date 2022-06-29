@@ -6,6 +6,10 @@
 Airline satisfaction scores for 129,880 passengers. Each record represents one passenger.Records contain details about passenger demographics, flight distance and delays, travel class and purpose, and ratings for factors like cleanliness, comfort, and service, as well as overall satisfaction with the airline.
 ---Visualization: MavenAnalytics.pbix
 
+**_Onyx_Data - Forbes Report_**
+---Dataset : Forbes World's Billionaires List 2022.csv
+---Visualization : Forbes.pbix
+
 **_Forage - PwC: Report_**
 ---Dataset : Call-Center-Datset.xlsx
 ---Task : Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
